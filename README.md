@@ -1,1 +1,1 @@
-# odin-recipes
+My first website with recipes with Odin project, will be basic html. Will include headers, links, image links and other very basic stuf.
